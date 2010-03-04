@@ -63,3 +63,5 @@ num_images = A(2);
 test_labels = fread(fid,num_images,'uint8=>uint8');
 
 fclose(fid);
+
+end

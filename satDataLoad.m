@@ -7,3 +7,5 @@ stat = load('satData.txt'); % Johnson and Albert p77 table 3.1
 y = stat(:,1);
 N = length(y);
 X = [ones(N,1) stat(:,4)];
+
+end

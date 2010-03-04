@@ -24,3 +24,5 @@ for i=1:Nclasses
   data(ndx{i}, 1) = data(ndx{i}, 1) * sd(i) + c(i,1);
   data(ndx{i}, 2) = data(ndx{i}, 2) * sd(i) + c(i,2);
 end
+
+end

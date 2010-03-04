@@ -31,4 +31,5 @@ ytestNoisefree = feval(fun, xtest);
 ytestNoisy = ytestNoisefree +  randn(size(xtest,1),1)*sqrt(sigma2);
 restoreSeed;
 
+end
 

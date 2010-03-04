@@ -23,6 +23,7 @@ for c=1:10
 end
 Ntrain
 Ntest
+end
 
 %{
 Ntrain =

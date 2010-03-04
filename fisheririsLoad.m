@@ -9,3 +9,5 @@ for c=1:3
   ndx = strmatch(classnames{c},species);
   y(ndx) = c;
 end
+
+end

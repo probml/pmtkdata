@@ -12,3 +12,5 @@ for k = 1:size(images,3)
   end
   waitforbuttonpress;
 end
+
+end

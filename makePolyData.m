@@ -20,3 +20,5 @@ ytrain = ytrueTrain+sqrt(sigma2)*randn(n,1);
 
 ytrueTest = w(1)*xtest+w(2)*xtest.^2;
 ytest = ytrueTest +sqrt(sigma2)*randn(length(xtest),1);
+
+end

@@ -18,3 +18,5 @@ xrange = [x0:step:x1];
 yrange = [y0:step:y1];
 [X Y] = meshgrid(xrange, yrange);
 Xtest = [X(:) Y(:)];
+
+end
