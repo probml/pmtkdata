@@ -27,12 +27,12 @@ for j=ndx(:)'
   data.X(:,j) = convertLabelsTo01(data.X(:,j));
 end
 
-if 1
+if 0
   D = size(data.X,2);
   for j=1:D
     figure
     hist(data.X(:,j));
-    title(sprintf('%d %s', j, safeStr(data.varNames{j}));
+    title(sprintf('%d %s', j, safeStr(data.varNames{j})));
   end
   placeFigures
 end
