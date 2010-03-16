@@ -1,4 +1,4 @@
-function data = loadHastieMixture()
+function data = loadHastieMixtureData()
 % Load Hastie mixture data from 
 % http://www-stat.stanford.edu/~tibs/ElemStatLearn/datasets/mixture.example.data
 % http://www-stat.stanford.edu/~tibs/ElemStatLearn/datasets/mixture.example.info
@@ -63,3 +63,4 @@ data.px2 = str2double(g(48554:48652));
 data.means = str2double(g(48659:48698));
 
 
+end
