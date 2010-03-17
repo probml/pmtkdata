@@ -61,6 +61,6 @@ data.marginal = str2double(g(34814:41644));
 data.px1 = str2double(g(48482:48550));
 data.px2 = str2double(g(48554:48652));
 data.means = str2double(g(48659:48698));
-
+data.bayesError = sum(data.marginal.*(data.prob.*(data.prob < 0.5) + (1-data.prob).*(data.prob >= 0.5)));
 
 end
