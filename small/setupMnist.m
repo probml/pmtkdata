@@ -1,6 +1,6 @@
 function [Xtrain,ytrain,Xtest,ytest] = setupMnist(varargin)%binary, Ntrain, Ntest,full)
 
-[binary,Ntrain,Ntest,keepSparse,classes] = processArgs(varargin,'-binary',false,'-ntrain',60000,'-ntest',10000,'-keepSparse',true,'-classes',0:9);
+[binary,Ntrain,Ntest,keepSparse,classes] = process_options(varargin,'binary',false,'ntrain',60000,'ntest',10000,'keepSparse',true,'classes',0:9);
         
 if nargout < 3, Ntest = 0; end
 
