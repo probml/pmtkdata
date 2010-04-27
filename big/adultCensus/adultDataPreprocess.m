@@ -44,5 +44,6 @@ D = size(data.X,2);
 keep = setdiff(1:D, skip);
 data.X = data.X(:,keep);
 data.varNames = data.varNames(keep);
- 
+data.types = data.types(keep);
+
 end
