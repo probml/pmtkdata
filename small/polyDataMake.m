@@ -25,6 +25,7 @@ else
     else
         error(['bad degree, dude ' deg])
     end
+    %sigma2 = 1^2;
     sigma2 = 5^2;
 end
 ytrain = feval(fun, xtrain) + randn(size(xtrain,1),1)*sqrt(sigma2);
