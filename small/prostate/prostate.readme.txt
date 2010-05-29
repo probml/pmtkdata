@@ -1,3 +1,0 @@
-	lcavol	lweight	age	lbph	svi	lcp	gleason	pgg45 lpsa	train
-
-from Tibshirani book
