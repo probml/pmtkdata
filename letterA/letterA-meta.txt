@@ -1,5 +1,5 @@
-% PMTKdescription
+% PMTKdescription Various images of the letter A
 % PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKtype 
+% PMTKncases 4
+% PMTKndims 128x128
