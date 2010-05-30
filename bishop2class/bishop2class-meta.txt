@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Classification data set from Bishop's Pattern Recognition and Machine Learning
+% PMTKsource Original data from <a href = "http://research.microsoft.com/en-us/um/people/cmbishop/prml/webdatasets/datasets.htm">here</a>
+% PMTKtype Binary Classification
+% PMTKncases 200
+% PMTKndims 2

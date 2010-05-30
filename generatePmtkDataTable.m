@@ -6,7 +6,7 @@ dataSets = dirs(pmtkDataRoot());
 perm     = sortidx(lower(dataSets));
 dataSets = dataSets(perm);
 googleRoot = ' http://pmtkdata.googlecode.com/svn/trunk';
-colNames = {'NAME', 'DESCRIPTION', 'FILESIZE (KB)', 'SOURCE', 'TYPE'};
+colNames = {'NAME', 'FILESIZE (KB)', 'DESCRIPTION', 'TYPE', 'NCASES', 'NDIMS', 'SOURCE'};
 n = numel(dataSets);
 
 htmlData = cell(n, numel(colNames));
@@ -15,22 +15,28 @@ for i=1:n
     zip  = fullfile(pmtkDataRoot(), dataSets{i}, [dataSets{i}, '.zip']);
     link = sprintf('<a href="%s/%s/%s.zip">%s</a>', googleRoot, dataSets{i}, dataSets{i}, dataSets{i}); 
     htmlData{i, 1} = link; 
-    
-    
-    
+            
     [tags, lines] = tagfinder(meta);
-    S = createStruct(tags, lines);
-    if isfield(S, 'PMTKdescription')
-        htmlData{i, 2} = S.PMTKdescription;
-    end
     info = dir(zip); 
     sz = sprintf('%d', ceil(info.bytes/(1024))); 
-    htmlData{i, 3} = sz; 
-    if isfield(S, 'PMTKsource')
-        htmlData{i, 4} = S.PMTKsource;
+    htmlData{i, 2} = sz; 
+    
+    S = createStruct(tags, lines);
+    if isfield(S, 'PMTKdescription')
+        htmlData{i, 3} = S.PMTKdescription;
     end
     if isfield(S, 'PMTKtype')
         htmlData{i, 4} = S.PMTKtype;
+    end
+    if isfield(S, 'PMTKncases')
+        htmlData{i, 5} = S.PMTKncases;
+    end
+    if isfield(S, 'PMTKndims')
+        htmlData{i, 6} = S.PMTKndims;
+    end
+    
+    if isfield(S, 'PMTKsource')
+        htmlData{i, 7} = S.PMTKsource;
     end
 end
 pmtkRed  = '#990000';

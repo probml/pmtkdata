@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Four very different data sets all with the same p-value
+% PMTKsource Built in R data set
+% PMTKtype Regression
+% PMTKncases 11
+% PMTKndims 1

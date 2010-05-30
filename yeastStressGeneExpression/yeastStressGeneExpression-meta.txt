@@ -1,5 +1,7 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Gasch's gene expression data (contains NaNs)
+% PMTKsource Data is from <a href = "http://genome-www.stanford.edu/yeast_stress/data.shtml">here</a> Parsed using <a href = "http://people.cs.ubc.ca/~murphyk/Data/parseYeastStressData.m">parseYeastStressData.m</a>
+% PMTKtype Classification
+% PMTKncases 174
+% PMTKndims 6152
+
+

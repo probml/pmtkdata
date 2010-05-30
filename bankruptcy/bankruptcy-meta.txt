@@ -1,5 +1,5 @@
 % PMTKdescription
 % PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKtype Binary Classification
+% PMTKncases 66
+% PMTKndims 2
