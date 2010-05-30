@@ -1,6 +1,5 @@
-% PMTKdescription 
-% PMTKsource 
-% PMTKtype 
-% PMTKfileSize 124.0 KB
-% PMTKncases 
-% PMTKndims 
+% PMTKdescription
+% PMTKsource
+% PMTKtype
+% PMTKncases
+% PMTKndims
