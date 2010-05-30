@@ -1,5 +1,0 @@
-% PMTKdescription The cross validation sets for the <a href = "http://pmtkdata.googlecode.com/svn/trunk/14cancer/14cancer.zip">14cancer</a> set
-% PMTKsource Original data from <a href = "http://www-stat.stanford.edu/~tibs/ElemStatLearn/data.html">here</a>
-% PMTKtype
-% PMTKncases
-% PMTKndims
