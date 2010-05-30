@@ -1,4 +1,4 @@
-function [records,party,senators,bills,nmissedVotes] = loadSenateData()
+function [records,party,senators,bills,nmissedVotes] = senateDataLoad()
 % Senate Voting data from 109th Congress 2004-2006    
 % 
 % records 
