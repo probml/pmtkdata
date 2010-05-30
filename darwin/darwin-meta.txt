@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
+% PMTKdescription The full text of Darwin's "On the origin of species"
+% PMTKsource Original data from <a href = "http://www.gutenberg.org/etext/22764">here</a>.
+% PMTKtype Text
+% PMTKncases 20844 lines
 % PMTKndims

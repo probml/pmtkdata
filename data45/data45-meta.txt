@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
+% PMTKdescription Speech signals of the numbers "four" and "five"
+% PMTKsource Original data from <a href = "http://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>
+% PMTKtype Binary Classification
+% PMTKncases 252
 % PMTKndims
