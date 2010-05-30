@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Leptograpsus crabs data
+% PMTKsource Original data from <a href = "http://www.stats.ox.ac.uk/pub/PRNN/">here</a>
+% PMTKtype Classification
+% PMTKncases 80
+% PMTKndims 5

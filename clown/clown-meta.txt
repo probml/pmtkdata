@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
+% PMTKdescription An image of a clown
+% PMTKsource Built into MATLAB
 % PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKncases 1
+% PMTKndims 200x320

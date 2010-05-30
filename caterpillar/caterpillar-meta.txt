@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Caterpillar nests data
+% PMTKsource Original data from <a href = "http://www.ceremade.dauphine.fr/~xian/BCS/caterpillar">here</a>.
+% PMTKtype Regression 
+% PMTKncases 33
+% PMTKndims 10

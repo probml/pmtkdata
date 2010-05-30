@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Synthetic correlated dice rolls from an HMM model
+% PMTKsource <a href = "http://pmtk3.googlecode.com/svn/trunk/demos/Hidden_Markov_models/casinoDemo.m">See casinoDemo.m</a>
+% PMTKtype 
+% PMTKncases 
+% PMTKndims 
