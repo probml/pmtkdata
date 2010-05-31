@@ -1,6 +1,6 @@
 function generatePmtkDataTable()
 %% Generate the PMTK data table from the meta files
-% * PMTK3 must be on the MATLAB path *
+% *** Requires PMTK3 ***
 
 dataSets = dirs(pmtkDataRoot());
 perm     = sortidx(lower(dataSets));
