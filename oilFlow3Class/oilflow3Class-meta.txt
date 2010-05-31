@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Oil Flow data
+% PMTKsource Original data from <a href = "http://research.microsoft.com/en-us/um/people/cmbishop/PRML/webdatasets/datasets.htm">here</a>
+% PMTKtype Classification
+% PMTKncases 1000
+% PMTKndims 12

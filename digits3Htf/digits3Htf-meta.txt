@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Normalized handwritten digits, automatically scanned from envelopes by the U.S. Postal Service
+% PMTKsource Original data from <a href = "http://www-stat.stanford.edu/~tibs/ElemStatLearn/data.html">here</a>
+% PMTKtype 
+% PMTKncases 658
+% PMTKndims 16x16

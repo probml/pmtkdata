@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Images of faces
+% PMTKsource Original data from <a href = "http://www.cs.toronto.edu/~roweis/data.html">here</a>
+% PMTKtype Classification
+% PMTKncases 400
+% PMTKndims 64x64

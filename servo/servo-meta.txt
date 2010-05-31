@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Highly non-linear data generated from a servo system simulation
+% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/Servo">here</a>
+% PMTKtype Regression 
+% PMTKncases 167    
+% PMTKndims 4

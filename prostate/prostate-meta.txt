@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Prostate cancer data set
+% PMTKsource Original data from <a href = "http://www-stat.stanford.edu/~tibs/ElemStatLearn/">here</a>
+% PMTKtype Regression 
+% PMTKncases 67
+% PMTKndims 8

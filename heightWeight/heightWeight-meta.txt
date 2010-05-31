@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Height vs weight data for two groups: men and women
+% PMTKsource Original data from <a href = "http://www.stat.psu.edu/resources/bydata.htm">here</a>
+% PMTKtype Binary Classification
+% PMTKncases 200
+% PMTKndims 2

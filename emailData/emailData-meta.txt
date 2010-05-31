@@ -1,5 +1,5 @@
-% PMTKdescription
+% PMTKdescription Email classification data
 % PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKtype Classification
+% PMTKncases 1500
+% PMTKndims 10000

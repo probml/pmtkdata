@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription UCI Yeast data set: Predicting the Cellular Localization Sites of Proteins
+% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/yeast">here</a>
+% PMTKtype Classification 
+% PMTKncases 1484
+% PMTKndims 8

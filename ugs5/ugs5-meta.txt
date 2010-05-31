@@ -1,5 +1,5 @@
-% PMTKdescription
+% PMTKdescription All 5-node undirected graphs
 % PMTKsource
-% PMTKtype
-% PMTKncases
+% PMTKtype 
+% PMTKncases 1024
 % PMTKndims

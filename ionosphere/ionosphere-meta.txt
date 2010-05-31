@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Classification of radar returns from the ionosphere
+% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/Ionosphere">here</a>
+% PMTKtype Classification
+% PMTKncases 351
+% PMTKndims 34

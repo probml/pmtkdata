@@ -1,5 +1,5 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Gaussian Mixture data used in Hastie's "Elements of Statistical Learning" figure 2.1-2.3
+% PMTKsource Original data from <a href = "http://www-stat.stanford.edu/~tibs/ElemStatLearn/datasets/">here</a>
+% PMTKtype Binary Classification
+% PMTKncases 200
+% PMTKndims 2
