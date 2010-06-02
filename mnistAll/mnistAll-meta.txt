@@ -1,5 +1,7 @@
 % PMTKdescription MNIST handwritten digits
-% PMTKsource Original data from <a href = "http://yann.lecun.com/exdb/mnist/">here</a>, converted to Matlab by <a href = "http://people.cs.ubc.ca/~murphyk/Data/mnistMakeAll.m">mnistMakeAll.m</a>
-% PMTKtype Classification
+% PMTKsource http://yann.lecun.com/exdb/mnist
+% PMTKcreated  mnistMakeAll.m
+% PMTKtypeX 0-255 gray scale images
+% PMTKtypeY 0-9 class labels  of digits
 % PMTKncases 60000
 % PMTKndims 28x28
