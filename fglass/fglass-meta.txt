@@ -1,5 +1,5 @@
 % PMTKdescription Glass identification data set
-% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/Glass+Identification"> here</a>
+% PMTKsource http://archive.ics.uci.edu/ml/datasets/Glass+Identification
 % PMTKtype Classification
 % PMTKncases 214
 % PMTKndims 10

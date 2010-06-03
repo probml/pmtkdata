@@ -1,5 +1,5 @@
 % PMTKdescription Handwritten digits
-% PMTKsource Original data from <a href = "http://www.cs.toronto.edu/~roweis/data.html">here</a>
+% PMTKsource http://www.cs.toronto.edu/~roweis/data.html
 % PMTKtype Classification 
 % PMTKncases 1100x10
 % PMTKndims 16x16

@@ -1,5 +1,5 @@
 % PMTKdescription UCI Soybean data set
-% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/Soybean+(Large)">here</a>
+% PMTKsource http://archive.ics.uci.edu/ml/datasets/Soybean+(Large)
 % PMTKtype Classification 
 % PMTKncases 307
 % PMTKndims 35
