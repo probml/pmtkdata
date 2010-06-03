@@ -1,5 +1,6 @@
 % PMTKdescription
 % PMTKsource
-% PMTKtype Regression
+% PMTKtypeX cts
+% PMTKtypeY cts
 % PMTKncases
 % PMTKndims

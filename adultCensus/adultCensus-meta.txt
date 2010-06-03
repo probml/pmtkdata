@@ -1,5 +1,6 @@
 % PMTKdescription Adult census from UCI repository
-% PMTKsource Original data from <a href = "http://archive.ics.uci.edu/ml/datasets/Adult">here</a>
-% PMTKtype Mixed
+% PMTKsource http://archive.ics.uci.edu/ml/datasets/Adult
+% PMTKtypeX mixed
+% PMTKtypeY binary
 % PMTKncases 45222
-% PMTKndims 12
+% PMTKndims 11

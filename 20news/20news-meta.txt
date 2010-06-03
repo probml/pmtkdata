@@ -1,5 +1,6 @@
 % PMTKdescription Newsgroup documents
-% PMTKsource Original data from <a href = "http://people.csail.mit.edu/jrennie/20Newsgroups/">here</a>
-% PMTKtype Classification
-% PMTKncases 100
-% PMTKndims 16242
+% PMTKsource http://people.csail.mit.edu/jrennie/20Newsgroups/
+% PMTKtypeX binary
+% PMTKtypeY discrete
+% PMTKncases 16242
+% PMTKndims 100
