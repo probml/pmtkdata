@@ -1,5 +1,7 @@
-% PMTKdescription
-% PMTKsource
-% PMTKtype
-% PMTKncases
-% PMTKndims
+% PMTKdescription Tiny subset of the 20-newsgroups data
+% PMTKsource http://www.cs.toronto.edu/~roweis/data.html
+% PMTKtypeX binary
+% PMTKtypeY 
+% PMTKncases 16642
+% PMTKndims 100
+% PMTKcreated newsgroupsProcessData.m
