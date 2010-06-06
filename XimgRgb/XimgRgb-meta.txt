@@ -4,4 +4,4 @@
 % PMTKtypeY
 % PMTKncases 1
 % PMTKndims  32x32x3
-% PMTKcreated XimgRbg-make.m
+% PMTKcreated XimgRbgMake.m
