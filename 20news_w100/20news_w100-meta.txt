@@ -1,6 +1,11 @@
-% PMTKdescription A tiny version of the 20newsgroups data.
-% PMTKsource http://cs.nyu.edu/~roweis/data.html
+% PMTKdescription 20newsgroups data, 100 words, 4 meta-groups
+% PMTKsource http://cs.nyu.edu/~roweis/data.html, derived from http://people.csail.mit.edu/jrennie/20Newsgroups/
 % PMTKtypeX binary
 % PMTKtypeY discrete
 % PMTKncases 16242
 % PMTKndims 100
+
+   documents: [100x16242 logical]
+      wordlist: {1x100 cell}
+    newsgroups: [1x16242 double]
+    groupnames: {'comp.*'  'rec.*'  'sci.*'  'talk.*'}
