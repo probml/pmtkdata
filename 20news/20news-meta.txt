@@ -1,6 +1,0 @@
-% PMTKdescription Newsgroup documents
-% PMTKsource http://people.csail.mit.edu/jrennie/20Newsgroups/
-% PMTKtypeX binary
-% PMTKtypeY discrete
-% PMTKncases 16242
-% PMTKndims 100
