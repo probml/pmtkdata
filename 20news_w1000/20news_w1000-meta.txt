@@ -4,6 +4,7 @@
 % PMTKtypeY discrete (20)
 % PMTKncases 11256
 % PMTKndims 1000
+% PMTKcreated Ben Marlin
 
 num_class: 20
           vocab: {1x1000 cell}
