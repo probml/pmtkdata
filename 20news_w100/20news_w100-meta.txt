@@ -1,0 +1,6 @@
+% PMTKdescription A tiny version of the 20newsgroups data.
+% PMTKsource http://cs.nyu.edu/~roweis/data.html
+% PMTKtypeX binary
+% PMTKtypeY discrete
+% PMTKncases 16242
+% PMTKndims 100
