@@ -2,7 +2,7 @@
 % PMTKsource http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi
 % PMTKtypeX discrete
 % PMTKtypeY binary
-% PMTKncases 72
+% PMTKncases 38+34
 % PMTKndims 7129
 % PMTKcreated processAmlAllData.m
 
